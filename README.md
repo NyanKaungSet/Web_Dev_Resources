@@ -9,9 +9,8 @@ A collection of useful resources for web developers including CDN links, framewo
 1. [Introduction](#introduction)
 2. [Frameworks](frameworks.md)
 3. [Icons](icons.md)
-4. [CDN Libraries](CDN.md)
-5. [GitHub Profile Tools](github_profile_tools.md)
-6. [Contributions](#contribution)
+4. [GitHub Profile Tools](github_profile_tools.md)
+5. [Contributions](#contribution)
 
 ---
 
